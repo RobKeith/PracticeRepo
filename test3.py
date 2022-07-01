@@ -1,3 +1,8 @@
+# jumping off the deep end a bit with some more fun stuff
+# learning argparse basics
+# learning how to invoke a script - https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+# learning how to return from a function 
+
 import argparse
 
 parser = argparse.ArgumentParser(
