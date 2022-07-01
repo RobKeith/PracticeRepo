@@ -2,6 +2,7 @@
 # learning argparse basics
 # learning how to invoke a script - https://stackoverflow.com/questions/419163/what-does-if-name-main-do
 # learning how to return from a function 
+# learning methods associated with a string, like .lower() to change character case
 
 import argparse
 
