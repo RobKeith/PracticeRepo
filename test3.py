@@ -27,7 +27,7 @@ def main():
     """
     args = parser.parse_args()
     input_name = args.input
-    this = mycustomfunct(input_name)
+    this = mycustomfunct(input_name.lower())
     print(this)
 
 
